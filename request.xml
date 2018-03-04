@@ -1,0 +1,5 @@
+<ConvertTemp xmlns="http://www.webserviceX.NET/">
+	<Temperature>15.0</Temperature>
+	<FromUnit>degreeCelsius</FromUnit>
+	<ToUnit>kelvin</ToUnit>
+</ConvertTemp>
